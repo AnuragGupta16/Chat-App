@@ -1,4 +1,4 @@
-##LIVE RUNNING APPLICATION LINK -  0fire-chat0.netlify.app
+##LIVE RUNNING APPLICATION LINK -  http://0fire-chat0.netlify.app
 
 ##LOGIN PAGE
 ![image](https://user-images.githubusercontent.com/86673132/209450598-d5e44d90-b18f-4165-ac56-03673dcdd818.png)
